@@ -1,0 +1,14 @@
+public class Employee {
+private string name;
+private int number;
+
+public Employee(String name,Int number){
+setname(Name);
+setnumber(Number);
+
+public void setname(String name){
+this.name=name;
+}
+public void setname(Int number){
+this.name=number;
+}
